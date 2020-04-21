@@ -1,0 +1,15 @@
+</tr>
+
+<trclass="odd_row">
+<td>10gram</td>
+<td><iclass="inr-symbol-icon">&#8377;</i>41,910</td>
+<td><iclass="inr-symbol-icon">&#8377;</i>41,900</td>
+<td>
+--
+</tr>
+
+<trclass="odd_row">
+<td>10gram</td>
+<td><iclass="inr-symbol-icon">&#8377;</i>44,480</td>
+<td><iclass="inr-symbol-icon">&#8377;</i>44,470</td>
+<td>

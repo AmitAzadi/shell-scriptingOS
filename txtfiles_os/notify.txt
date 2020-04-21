@@ -1,0 +1,8 @@
+22 carat today
+41,910
+22 carat yesterday
+41,900
+24 carat today
+44,480
+24 carat yesterday
+44,470
