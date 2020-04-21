@@ -14,6 +14,6 @@ This project enables you to open chrome at Linux startup and enables notificatio
   
   6.run "sudo chmod ugo+rwx /etc/cron.hourly folder/golldpriceauto.sh" in terminal.
   
-  7.Rename all 'hritik' in files with ur username ;)
+  7.Rename all 'AmitAzadi' in files with ur username ;)
  
   
