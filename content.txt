@@ -1,0 +1,2 @@
+source /home/hritik/Documents/shfiles/goldprice.sh
+source /home/hritik/Documents/shfiles/chrome.sh
